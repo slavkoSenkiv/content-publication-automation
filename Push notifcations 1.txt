@@ -1,0 +1,12 @@
+sdfsdf push notification
+
+push notification sdfsdf
+
+What are these
+    
+    Writing and #targeting game #pushnotifications is a part of my day-to-day routine or business-as-usual (BAU) stuff as we call it inside our team. While it looks like a pretty simple task at the first glance, it is a really time-consuming daily challenge for me. Mainly because I’m not a native speaker and #pushnotification copies require at least a bit of creativity. But what makes the task even more responsible is knowing the fact that they have quite a big impact on the game overall. Plus I deliver them to hundreds of thousands of players directly. So, it is a bad practice to underestimate the role of #pushnotifications in a game growth, monetization, or live ops activities.
+    
+    Let me start with an explanation of what game #pushnotifications are and why they are so important. I believe that most of you are familiar with this thing. If not game-related then a regular one. For some of you, it may be even so familiar that it wakes up a bit of a disgusting feeling. And another part of you may not have that feeling because you just have your notifications turned off for the apps or games whose notifications were too spammy. (I’ll look into this situation more closely in part 2)
+    
+    But basically, what #pushnotification is in a nutshell - it’s a way to deliver the information to all or certain players when they are out of the game.
+ 
