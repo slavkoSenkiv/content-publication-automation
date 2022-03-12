@@ -36,7 +36,9 @@ for hashtag in hashtag_lst:
         if hashtag in word:
             print('HERE hashtag in word')
             if reversed_text_lst.index(word) not in hashtag_index_lst:
+                #todo how to eliminate one of 0 and 4 or one of 8 and 1 in hashtag_index_lst
                 hashtag_index_lst.append(reversed_text_lst.index(word))
+print(reversed_text_lst)
 print(hashtag_index_lst)
 # </editor-fold>
 
