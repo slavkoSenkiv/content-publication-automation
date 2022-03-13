@@ -1,58 +1,48 @@
 # <editor-fold desc="start">
-file = open('Push notifcations.txt', 'r+')
-text = file.read()
-file.truncate(0)
-file.close()
+import gspread
+file_before = open('text before.txt', 'r+')
+text = file_before.read()
+file_before.close()
+gs_name1 = 'під рукою робоча таблиця різне'
+path_to_gspread_credentials_json = '/Users/ysenkiv/.config/gspread/credentials.json'
+path_to_gspread_authorized_user = '/Users/ysenkiv/.config/gspread/authorized_user.json'
+gc = gspread.oauth()
+gs = gc.open(gs_name1)
+hashtag_sheet = gs.worksheet('хештеги')
 # </editor-fold>
 
-hashtags_keys_lst = ['push notification', 'targeting']
-hashtag_lst = ['#pushnotification', '#targeting']
-# <editor-fold desc="replays hashtag keys with hashtags">
+# <editor-fold desc="get and built hashtags lists">
+hashtags_keys_lst_of_lst = hashtag_sheet.get_values()
+
+hashtags_keys_lst = []
+for lst in hashtags_keys_lst_of_lst:
+    for hashtag_key in lst:
+        hashtags_keys_lst.append(hashtag_key)
+
+hashtag_lst = []
 for hashtag_key in hashtags_keys_lst:
-    hashtag = f'#{hashtag_key.replace(" ", "")}'
-    if hashtag_key in text:
-        text = text.replace(hashtag_key, hashtag)
-# </editor-fold>
-# <editor-fold desc="convert text into reversed words list">
-text = text.replace('\n', '\n ')
-# <editor-fold desc="eliminate ##, '  ', '\n '">
-while '##' in text:
-    text = text.replace('##', '#')
-while '  ' in text:
-    text = text.replace('  ', ' ')
-"""while '\n ' in text:
-    text = text.replace('\n ', '\n')"""
-# </editor-fold>
-text_lst = text.split(' ')
-print('text_lst\n', text_lst)
-reversed_text_lst = text_lst[::-1]
-print('reversed_text_lst\n', reversed_text_lst)
-# </editor-fold>
-# <editor-fold desc="get the index of hashtags in text">
-hashtag_index_reversed_lst = []
-for hashtag in hashtag_lst:
-    for word in reversed_text_lst:
-        if hashtag in word:
-            if reversed_text_lst.index(word) not in hashtag_index_reversed_lst:
-                hashtag_index_reversed_lst.append(reversed_text_lst.index(word))
-backup_hashtag_index_reversed_lst = hashtag_index_reversed_lst
-print('hashtag_index_reversed_lst\n', hashtag_index_reversed_lst)
+    hashtag = '#' + hashtag_key.replace(' ', '')
+    hashtag_lst.append(hashtag)
 # </editor-fold>
 
-for word in reversed_text_lst:
-    print('word', word)
-    if reversed_text_lst.index(word) not in hashtag_index_reversed_lst:
-        reversed_text_lst[reversed_text_lst.index(word)] = 'x'
-    else:
-        print(f'index {reversed_text_lst.index(word)} word {word}')
-        # hashtag_index_in_hashtag_lst = hashtag_lst.index(reversed_text_lst[reversed_text_lst.index(word)])
-        # reversed_text_lst[reversed_text_lst.index(word)] = hashtags_keys_lst[hashtag_index_in_hashtag_lst]
 
-print(reversed_text_lst)
+def replace_last(string, old, new, occurrence):
+    li = string.rsplit(old, occurrence)
+    return new.join(li)
 
-# <editor-fold desc="end">
-file = open('Push notifcations.txt', 'r+')
-file.write(text)
-# </editor-fold>
 
-# 1 #pushnotification 2 #pushnotification 3 #pushnotification 4 #targeting 5 #targeting 6 #targeting
+for i in range(2):
+    for hashtag_key in hashtags_keys_lst:
+        if hashtag_key in text:
+            hashtag_key_index = hashtags_keys_lst.index(hashtag_key)
+            text = replace_last(text, hashtag_key, hashtag_lst[hashtag_key_index], 1)
+            hashtags_keys_lst[hashtag_key_index] = '#@)₴$0'
+
+text = text.replace('##', '#')
+text = text.replace('  ', ' ')
+file_after = open('text after.txt', 'r+')
+file_after.truncate(0)
+file_after.write(text)
+print('done')
+
+# 1 push notification 2 push notification 3 push notification 4 targeting 5 targeting 6 targeting
