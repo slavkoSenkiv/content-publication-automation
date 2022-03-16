@@ -10,9 +10,7 @@ def replace_last(string, old, new, occurrence):
 
 hashtags_gs = gspread.oauth().open('hashtags')
 hashtags_keys_lst = hashtags_gs.worksheet('hashtag keys').col_values(1)
-print(hashtags_keys_lst)
 important_hashtags_lst = hashtags_gs.worksheet('important hashtags').col_values(1)
-print(important_hashtags_lst)
 text = open('text before.txt', 'r+').read()
 
 hashtag_lst = []
