@@ -1,43 +1,92 @@
-How to stay creative
-As I have already said, being a not native speaker and having a large #audience makes it a challanging task to write push notifications. Especially, when a new content comes every week. And, when it has a lot of events that require push notifications. And, when #events types are similar from week to week. It’s hard to be at least a bit creative.
-
-But after a year of copywriting I came up with a few tricks that make the process less stressful. Usually my #pushnotifications have two parts. The flavor part to get player attention, and info part to give #player an idea of what is going on. While the second part is usually straighforward the first one may be hard to came up with. So here are a few tricks that I use when I’m stuck.
-1.Rhyme thing
-There is a nice service called #rhymezone .com. If your enter a word that you want to #rhyme, then pick advanced view - it gives you a list of words that may be usefull for your copy. The list even will be sorted ascending by the popularity. Here are a few examples:
+P1_P1 What are these
+This is the first in T1 Push notifications series
+past post[]
+﻿T1 Push notifications
 
 
-For hugging day “PLUG a 🫂 HUG into your routine! Celebrate Hugging Day with…“
-Or another holiday “💪 The body ACHIEVES what the 🧠 mind BELIEVES! Celebrate Mind-Body Wellness Day with…”
-For the content with the word “orb” in its name “🔮 Wanna be the LORD? Roll this new ORB! 🔥 Join…
-For Ortoberfest a mag was rhyming with “🍺 GRAM a MAG and CHUG. Score a special…”
-2. images
-I believe you know about image search tab in Google as well as you are familiar with Pinterest. Ttry to enter your keyword, add “#quotes/#phrases/#captions” word, and hit enter. Both of these have a lot of images that have text on it about every possible topic. But there is even more usefull trick! When you find the good #phrase - click on it, and these servises provide you with more similar or at least related content. For sure, not all of them are creative, quite a lot are have same text in different font. Start scrolling untill you find smething that suits you. Here are few examples that I found build with a help of these services:
+next post['P2_P2 Why are they important?', 'P3_P3 How to avoid unsubscribing', 'P4_P4 And go with the best creative only', 'P5_P5 How to stay creative']
+
+Follow @gamedevbiz if you want to read the next part from push notification series
+Tag a friend who may struggling as I was before found out these tricks
+Share the post in your story or feed to show your colleagues this piece
+Comment  your thoughts about where I was wrong or like a post if you found it useful
+
+P2_P2 Why are they important?
+This is the second in T1 Push notifications series
+past post['P1_P1 What are these']
+
+Writing and targeting game push notifications is a part of my day-to-day routine or business-as-usual (BAU) stuff as we call it inside our team. While it looks like a pretty simple task at the first glance, it is a really time-consuming daily challenge for me. Mainly because I’m not a native speaker and push notification copies require at least a bit of creativity. But what makes the task even more responsible is knowing the fact that they have quite a big impact on the game overall. Plus I deliver them to hundreds of thousands of players directly. So, it is a bad practice to underestimate the role of push notifications in a game growth, monetization, or live ops activities. 
+
+Let me start with an explanation of what game push notifications are and why they are so important. I believe that most of you are familiar with this thing. If not game-related then regular ones. For some of you, it may be even so familiar that it wakes up a bit of a disgusting feeling. And another part of you may not have that feeling because you just have your notifications turned off for the apps or games whose notifications were too spammy. (I’ll look into this situation more closely in part 2)
+
+But basically, what push notification is in a nutshell - it’s a way to deliver the information to all or certain players when they are out of the game. 
+
+next post['P3_P3 How to avoid unsubscribing', 'P4_P4 And go with the best creative only', 'P5_P5 How to stay creative']
+
+Follow @gamedevbiz if you want to read the next part from push notification series
+Tag a friend who may struggling as I was before found out these tricks
+Share the post in your story or feed to show your colleagues this piece
+Comment  your thoughts about where I was wrong or like a post if you found it useful
+
+P3_P3 How to avoid unsubscribing
+This is the third in T1 Push notifications series
+past post['P1_P1 What are these', 'P2_P2 Why are they important?']
+
+But why are they so important? Obviously, because they provide an additional way to notify the players about in-game sales or events. The most common way of information delivery to players is an in-game pop-up. It may find players only when they are playing the game (or even only on a login). Then go email notifications that are quite often in the folder that has notification disabaled. Or players have already unsubscribed from these emails to have their inbox cleaner. Or even moved the sender (the game) to a spam folder and this action affected the game domain rating overall. Push notifications are the last frontier keeping information delivery. So you need to do all you can to avoid players from unsubscribing (more in part 2). Now back to the importance. 
+
+Imagine that you want to run a sale with a bigger discount than usual (70% off instead of the usual 50% off).  As it may have an impact on the in-game economy you may not want to run it for a whole day but for two hours. Plus you may want to create a limited-time offer feeling. We can call it a happy hour sale and it is a common practice in mobile game monetization. But what if your players are aware of your current in-store situation because it is the same daily. They know that you run a 50% sale now, or no sale at all for a whole day. They are going to buy the stuff on their way home in the subway when their bosses and colleagues are not watching them over the shoulder. In situations like this - push notifications are your only chance to give your players an idea of what is going on in the game right now and why they should visit the game right now and save money. (read spend money).
+
+Of course, there are other, more simple, and more regular situations where you might want to use pushes to promote a new in-game event or content launch for your audience. Or a freebie is on the way to the players and they just need to login to get it. In fact, most of the developer activities whether they have monetization, retention, or engagement in mind - might be boosted with push notifications. But players may already know the cadence of these activities and these push notifications are more like task reminders for them (which is another benefit of push notifications usage). In case of a happy hour sale - push notifications are your only way to get the most out of it. Leave a comment with more events that can benefit from push notifications usage. 
+
+next post['P4_P4 And go with the best creative only', 'P5_P5 How to stay creative']
+
+Follow @gamedevbiz if you want to read the next part from push notification series
+Tag a friend who may struggling as I was before found out these tricks
+Share the post in your story or feed to show your colleagues this piece
+Comment  your thoughts about where I was wrong or like a post if you found it useful
+
+P4_P4 And go with the best creative only
+This is the fifth in T1 Push notifications series
+past post['P1_P1 What are these', 'P2_P2 Why are they important?', 'P3_P3 How to avoid unsubscribing']
+
+Now, let’s talk about how to avoid player unsubscribing. This part may be relative to the email notifications too. Some of us are trying to play as many games as possible in order to be up to date with the market situation. Quite often we turn notifications off because of push notifications waterfall from these games. It is really easy to miss important notifications among dozens of freebies. Or the push notifications are just repetitive boring copies that are not worth following. 
+
+But I met a few games that made me leave the notifications turned on because they were interesting, use jokes, or sometimes tried to add erotic double meaning. Just read this example from War and Magic: 
+
+“The other girls and I talked about you last night. Thanks for taking care of us. Please take this gift. We hope that your city becomes even more prosperous! 
+
+The first sentence makes you expand the end of the copy. The second part asks the player in a fictional form to log in and take a freebie. And every push notification there is like this one. Because of this game, I decided to have an additional section in my live ops creative assets collection specifically for push notifications. Previously there were only popups, user interface ideas, and interesting game mechanics.  Now push notifications too.
+How segmentation helps you to avoid unsubscribing  
+This one is pretty simple. First - do not show players notifications promoting stuff that they are not able to access. For example, you launch new content sooner for VIP players (payers) than for non-payers. Do not tease non-payers. Unless you want to. I mean, you might want to show non-payers that payers have access sooner and they can join their lines by spending money. But friend, you are a blade runner. 
+
+Same segmentation can help you decrease the unsubscription rate by targeting players with personalized messages. Greet US players with Independent Day on the 4th of July and Ukrainian players on July 24. Same event, different audiences, different dates.
+
+next post['P5_P5 How to stay creative']
+
+Follow @gamedevbiz if you want to read the next part from push notification series
+Tag a friend who may struggling as I was before found out these tricks
+Share the post in your story or feed to show your colleagues this piece
+Comment  your thoughts about where I was wrong or like a post if you found it useful
+
+P5_P5 How to stay creative
+This is the sixth in T1 Push notifications series
+past post['P1_P1 What are these', 'P2_P2 Why are they important?', 'P3_P3 How to avoid unsubscribing', 'P4_P4 And go with the best creative only']
+
+Basically, interesting or creative or at least different from one another copies minimize players' unsubscribing. But you can't go with one copy. You need to have a few and pick the best one. How to pick these? We may think the copy is great, but the data can prove we are wrong quite often. Short answer - A\B testing. For sure, if it is releasing a new weekly content that has a bunch of themed events - you need to consider whether it is worth AB testing every event push notifications. 
+
+But, if it is player onboarding path notifications -  AB testing is your only way. In the first case, with new content, players already stay with you and know about updates because it is tribal knowledge. But in the second case (the onboarding path) it is a matter of whether the game will live or not. 
+
+A few years ago I was working in SMS marketing. It was challenging work too because your creatives are blocked every hour and you need to come up with new ones. Not only new ones but also working ones. By working ones I mean they have a good click-through rate (CTR) and more importantly they should bring purchases. 
+
+So from 5 to 10 times per day we had the next cycle. Get 10 copies from a creative bank (or write if the bank is empty), send them to the 7k people that we know usually are clicking on the links in the SMS (we can track and segment them). We use a 7k audience for the test in order to have around 700 people per creative. This number is the smallest possible number for statistically correct insight.  5 mins later, pick 4-5 creatives with the best CTR out of those 10 and send them to 15k clickers in order to get a more correct answer about the best creatives from the most active audience. After 5 min pick the best 1-3 creatives and work with them until you are blocked again. If you see that creative has good ctr but is bringing small revenue - you may kick it out of the list. But if you see the creative brought good revenue and was blocked later - modify it and go with a new modification.
+
+The same a/b test strategy you can use for picking the best creative for push notification if you believe it is worth it.
 
 
-[new content] is 🌶️ too hot to handle! Celebrate with us Hot and Spicy Food Day 🥵
-💂 Let's get crackin’ with a new 🎄 Nutcracker holiday-themed[your content here]!
-🍹 Bartenders know too much! 🍸 or 🍹 For those who warm us up! 🍸 Celebrate National Bartender Day with [your content here]!
-3. Words play
-There are cases where it is possible to play with a word and it migh look cool. But
-𓆏 CROAK the system! Join [your content here]
-🕺🎸 DISCO IT with the new [70’s themed content here]
-🐈 Raise a PAWsome friend that will leave a paw print on your heart! 😺 Join the [your content here]
-🐈 Less stress, more cats! 😺 Raise your PURRsome friend in [your content here]
-🦜 Tweet-tweet! 👯Twin-twin! Celebrate National Twin Day [here we had bird-themed content]
-🦅 Celebrate Wildlife Conservation Day with ROARsome 🐅 [your #content here]
+next post[]
 
-4. rewrite prewious examples.
-If your you are sending #pushnotifications at least for half a year or your team was sending them before you joined the #team - there is a chance that you will end up with a solid creative copies bank. Especially when you write a few creaitives per promotion for a\b testing or just to pick the best later. In half a year you will end up with a solid creative bank with copies may be reused after modification. To pick potenrially usefull just use keyword search in a document or filtering if you store them in a table sheet.
-5. emogies
-Well, do not have much to say here! If you are stragling to find apropriate emojies for push notications, or you feel that there is more apropriate emojies that you have in mind - there is few services that can help you.
-Enter a keyword in #emojipedia.org and it will list down you all related emojies. If you click one it will show you more #emojies related to that one.
-Enter a keyword in #emojicombos.com and you will be offered list of #emojie collections related to the #keyword. Looks like some user build these collections and other users rate them. So on the top you can see really usefull collection for your topic.
-6. Next day improvements.
-Copywryting is like a winemaking. If you leave copies and come back to them later - you can make them better. Do not write and publish on the same day in a short. Plus, searching and writing #creatives takes a lot of mind power. But on the next day a copy where you stuck can be rewriten with a new ideas.
-7.Typos and grammar
-I make types a lot. Like 2 typos per 1 sentence. But there are few tools that help me to identify these and eliminate. As I white #copies in Google Docs there is a cool built-in tool that checks spelling a grammar mistakes. Usualy I do not aprove surrestions with one click but rewrite the words again in order to built a happit to write them correctly. The second tool is Grammarly. I use it not as an option instead of Google built-in tool, but as a second checking frontier. Afther these, if a run date for these #notifications is later then today I ask my wife to check it too. Usualy she can find 1-2 mistakes too, or shuggest better slang.
-
-As conclusion I want to say, that while all these tips and tricks alone are not super usefull, if you use them together they can boost your creativity and spedup #copywriting. For those who are not #nativespeakers they are really helpfull.
-
-
+Follow @gamedevbiz if you want to read the next part from push notification series
+Tag a friend who may struggling as I was before found out these tricks
+Share the post in your story or feed to show your colleagues this piece
+Comment  your thoughts about where I was wrong or like a post if you found it useful
 

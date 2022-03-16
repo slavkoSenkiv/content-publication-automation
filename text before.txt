@@ -1,43 +1,1 @@
-How to stay creative
-As I have already said, being a not native speaker and having a large audience makes it a challanging task to write push notifications. Especially, when a new content comes every week. And,  when it has a lot of events that require push notifications. And, when events types are similar from week to week. It’s hard to be at least a bit creative.
-
-But after a year of copywriting I came up with a few tricks that make the process less stressful.  Usually my push notifications have two parts. The flavor part to get player attention, and info part to give player an idea of what is going on. While the second part is usually straighforward the first one may be hard to came up with. So here are a few tricks that I use when I’m stuck.
-1.Rhyme thing
-There is a nice service called #rhymezone .com. If your enter a word that you want to rhyme, then pick advanced view - it gives you a list of words that may be usefull for your copy. The list even will be sorted ascending by the popularity. Here are a few examples:
-
-
-For hugging day “PLUG a 🫂 HUG into your routine! Celebrate Hugging Day with…“
-Or another holiday “💪 The body ACHIEVES what the 🧠 mind BELIEVES! Celebrate Mind-Body Wellness Day with…”
-For the content with the word “orb” in its name “🔮 Wanna be the LORD? Roll this new ORB! 🔥 Join…
-For Ortoberfest a mag was rhyming with “🍺 GRAM a MAG and CHUG. Score a special…”
-2. images
-I believe you know about image search tab in Google as well as you are familiar with Pinterest. Ttry to enter your keyword, add “quotes/phrases/captions” word, and hit enter. Both of these have a lot of images that have text on it about every possible topic. But there is even more usefull trick! When you find the good phrase - click on it, and these servises provide you with more similar or at least related content. For sure, not all of them are creative, quite a lot are have same text in different font. Start scrolling untill you find smething that suits you. Here are few examples that I found build with a help of these services:
-
-
-[new content] is 🌶️ too hot to handle! Celebrate with us Hot and Spicy Food Day 🥵
-💂 Let's get crackin’ with a new 🎄 Nutcracker holiday-themed[your content here]!
-🍹 Bartenders know too much! 🍸 or  🍹 For those who warm us up! 🍸 Celebrate National Bartender Day with [your content here]!
-3. Words play
-There are cases where it is possible to play with a word and it migh look cool. But
-𓆏 CROAK the system! Join [your content here]
-🕺🎸 DISCO IT with the new [70’s themed content here]
-🐈 Raise a PAWsome friend that will leave a paw print on your heart! 😺 Join the [your content here]
-🐈 Less stress, more cats! 😺 Raise your PURRsome friend in [your content here]
-🦜 Tweet-tweet! 👯Twin-twin! Celebrate National Twin Day [here we had bird-themed content]
-🦅 Celebrate Wildlife Conservation Day with ROARsome 🐅 [your content here]
-
-4. rewrite prewious examples.
-If your you are sending push notifications at least for half a year or your team was sending them before you joined the team  - there is a chance that you will end up with a solid creative copies bank. Especially when you write a few creaitives per promotion for a\b testing or just to pick the best later. In half a year you will end up with a solid creative bank with copies may be reused after modification. To pick potenrially usefull just use keyword search in a document or filtering if you store them in a table sheet.
-5. emogies
-Well, do not have much to say here! If you are stragling to find apropriate emojies for push notications, or you feel that there is more apropriate emojies that you have in mind - there is few services that can help you.
-Enter a keyword in emojipedia.org and it will list down you all related emojies. If you click one it will show you more emojies related to that one.
-Enter a keyword in emojicombos.com and you will be offered list of emojie collections related to the keyword. Looks like some user build these collections and other users rate them. So on the top you can see really usefull collection for your topic.
-6. Next day improvements.
-Copywryting is like a winemaking. If you leave copies and come back to them later - you can make them better. Do not write and publish on the same day in a short. Plus, searching and writing creatives takes a lot of mind power. But on the next day a copy where you stuck can be rewriten with a new ideas.
-7.Typos and grammar
-I make types a lot. Like 2 typos per 1 sentence. But there are few tools that help me to identify these and eliminate. As I white copies in Google Docs there is a cool built-in tool that checks spelling a grammar mistakes. Usualy I do not aprove surrestions with one click but rewrite the words again in order to built a happit to write them correctly. The second tool is Grammarly. I use it not as an option instead of Google built-in tool, but as a second checking frontier. Afther these, if a run date for these notifications is later then today I ask my wife to check it too. Usualy she can find 1-2 mistakes too, or shuggest better slang.
-
-As conclusion I want to say, that while all these tips and tricks alone are not super usefull, if you use them together they can boost your creativity and spedup copywriting. For those who are not native speakers they are really helpfull.
-
-
-
+﻿P1 What are game push notifications?“What are game push notifications” is my first post in a series about game push notifications Writing and targeting game push notifications is a part of my day-to-day routine or business-as-usual (BAU) stuff as we call it inside our team. While it looks like a pretty simple task at the first glance , it is a really time-consuming daily challenge for me. Mainly because I’m not a native  speaker and push notification  copies require at least a bit of creativity. But what makes the task even more responsible is knowing the fact that they have quite a big impact  on the game overall. Plus I deliver these copies to hundreds of thousands of players directly. So, it is a bad practice to underestimate the role of push notifications in a game growth,  game growth, or live ops activities. Let me start with an explanation of what game push notifications are and why they are so important. I believe that most of you are familiar with this thing. If not game-related then regular ones. For some of you, it may be even so familiar that it wakes up a bit of a disgusting feeling. And another part of you may not have that feeling because you just have your notifications turned off  for the apps or games whose notifications were too spammy. (I’ll look into this situation more closely in part 2)But basically, what push notification is in a nutshell - it’s a way to deliver the information to all or certain players when they are out of the game. Be sure to check the next posts in the push notification series2. Why push notifications are important for games?3. Avoid players unsubscribing from push notifications.4. Find best performing push notification creatives with help of AB testing.5. Write creative copies when content keeps falling on you.Follow @gamedevbiz if you want to read the next part from push notification seriesTag a friend who may struggling as I was before found out these tricksShare the post in your story\feed to show your colleagues this pieceComment  your thoughts about where I was wrong or like a post if you found it useful
