@@ -31,7 +31,7 @@ for i in range(2):
 
 for important_hashtag in important_hashtags_lst:
     if important_hashtag not in text:
-        text += important_hashtag + ' '
+        text += '#' + important_hashtag + ' '
 
 pyperclip.copy(text)
 print('text_with_hashtags\n', text)
